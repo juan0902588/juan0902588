@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juan0902588
-- 👀 I’m interested in programming,espetialy videogames
+- 👀 I’m interested in programming,spetialy videogames
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on little indie games
 - 📫 How to reach me via Discord juan_hdez08
